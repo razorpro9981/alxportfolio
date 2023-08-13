@@ -96,6 +96,15 @@ function Hero() {
           link="https://youtu.be/ZHW5OMhaBRs"
           
         />
+        <br />
+         <br />
+         <br />
+         <br />
+        <Button
+          text="Check out my Team Slide Deck"
+          link="https://docs.google.com/presentation/d/1UW7q24RgrBfZUKWhfkbFTHYxspq9uQuIQqecYqVOM-g/edit?usp=sharing"
+          
+        />
       </motion.div>
     </div>
   );
