@@ -85,7 +85,7 @@ function Hero() {
       >
         <Button
           text="Check out my Elevator Pitch"
-          link="https://docs.google.com/document/d/1NYtzah12YpKxgyM3N2pvG8Dltd9SHmzvpAoWAs3f-34/edit?usp=sharing"
+          link="https://youtu.be/3btMxwvuDno"
         />
         <br />
          <br />
