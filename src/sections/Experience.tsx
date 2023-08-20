@@ -26,21 +26,6 @@ function Experience() {
       ],
     },
     {
-      name: "GlobalAV",
-      role: "Content Manager Assistant",
-      url: "/",
-      start: "January 2022",
-      end: "November 2022",
-      shortDescription: [
-        "At GlobalAV my contribution extended beyond the conventional, as I leveraged cutting-edge AI technologies to devise efficient work and content plans. This strategic approach not only streamlined the team's workflow but also catalyzed the productivity of the entire collective. ",
-        
-        "Through this integration of technology and creativity, I championed innovation in content management, leaving a profound impact on the efficiency and efficacy of our operations.",
-
-        "As my chapter at GlobalAV reached its conclusion, I carried with me an array of invaluable experiences and accomplishments. ",
-        
-      ],
-    },
-    {
       name: "Uzuri Glow",
       role: "Product Design Assistant",
       url: "/",
